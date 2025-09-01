@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    printf("BEM VINDO AO SUPER TRUNFO\n \n");
+    
     // Dados das cartas
     char estado1, estado2;
     char cod1[20], cod2[20], nome1[50], nome2[50];
